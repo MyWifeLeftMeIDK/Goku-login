@@ -25,7 +25,7 @@ This script is for security or lock in termux
 
 ``git clone`` https://github.com/MyWifeLeftMeIDK/Goku-login
 
-``cd Termux-Login``
+``cd Goku-login``
 
 ``chmod +x setup.sh login.sh``
 
